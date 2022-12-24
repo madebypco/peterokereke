@@ -10,5 +10,5 @@
 - 🌱 I’m also currently learning Dart & the Flutter framework.
 - 👯 Very open to collaborating and peer-programming on Mobile Dev projects.
 - 📫 Reach me at: thepeterokereke@gmail.com
-- 😄 Pronouns: He/Him
+- 👨 Pronouns: He/Him
 - ⚡ Fun fact: People always tilt their heads to the right when kssing😄.
