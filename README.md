@@ -4,7 +4,7 @@
 - 👨🏽‍💻 I'm self-taught and learning using resources on the web & YouTube.
 - 👨🏽‍💻 Interested in Kotlin, Dart and Python programming languages.
 - 🤝 Open to networking with fellow Software Developers.
-- 👀 Interests: Cross-platform mobile development, AI and IoT.
+- 👀 Interests: Cross-platform mobile development, Web(backend) and AI.
 - 🗨️ Hobbies: Football, Video games, Blogging.
 - 🔭 Working daily to make myself a better Software Engineer.
 - 🌱 I’m currently learning Dart & the awesome Flutter framework.
