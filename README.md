@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 👀 My name is Peter and I'm learning Mobile Development!
+- 👀 My name is Peter and I am a junior mobile developer!
 - 👨🏽‍💻 I'm self-taught and learning using resources on the web & YouTube.
-- 👨🏽‍💻 Interested in Java, Dart and Kotlin programming languages.
+- 👨🏽‍💻 Interested in Kotlin, Dart and Python programming languages.
 - 🤝 Open to networking with fellow Software Developers.
-- 👀 Interests: Listening to songs, writing content and TED talks.
-- 🗨️ Hobbies: Football, Video games.
-- 🔭 I am working to make myself a better Software Engineer.
-- 🌱 I’m also currently learning Dart & the Flutter framework.
-- 👯 Very open to collaborating and peer-programming on Mobile Dev projects.
+- 👀 Interests: Cross-platform mobile development, AI and IoT.
+- 🗨️ Hobbies: Football, Video games, Blogging.
+- 🔭 Working daily to make myself a better Software Engineer.
+- 🌱 I’m currently learning Dart & the awesome Flutter framework.
+- 👯 Very open to collaboration and peer-programming on Mobile Dev projects.
 - 📫 Reach me at: thepeterokereke@gmail.com
 - 👨 Pronouns: He/Him
 - ⚡ Fun fact: People always tilt their heads to the right when kssing😄.
