@@ -2,7 +2,7 @@
 
 - 👀 My name is Peter and I am a junior mobile developer!
 - 👨🏽‍💻 I'm self-taught and learning using resources on the web.
-- 👨🏽‍💻 Interested in Dart and Python programming languages.
+- 👨🏽‍💻 Loves Python and Dart programming languages.
 - 🤝 Open to networking with fellow Software Developers.
 - 👀 Interests: Cross-platform mobile development, Web(backend) and AI.
 - 🗨️ Hobbies: Football, Video games, Blogging.
