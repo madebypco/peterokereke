@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-- 👀 My name is Peter and I am a junior mobile developer!
-- 👨🏽‍💻 I'm self-taught and learning using resources on the web.
-- 👨🏽‍💻 Loves Python and Dart programming languages.
+- 👀 My name is Peter and I'm a junior mobile developer!
+- 👨🏽‍💻 I am self-taught and learning using resources on the web.
+- 👨🏽‍💻 Loves Kotlin, Dart and Python programming languages.
 - 🤝 Open to networking with fellow Software Developers.
-- 👀 Interests: Cross-platform mobile development, Web(backend) and AI.
+- 👀 Interests: Mobile development(Cross-platform/Native) and AI.
 - 🗨️ Hobbies: Football, Video games, Blogging.
 - 🔭 Working daily to make myself a better Software Engineer.
-- 🌱 I’m currently learning Dart & the awesome Flutter framework.
+- 🌱 I’m currently learning the awesome Flutter framework.
 - 👯 Very open to collaboration and peer-programming on Mobile Dev projects.
 - 📫 Reach me at: thepeterokereke@gmail.com
 - 👨 Pronouns: He/Him
