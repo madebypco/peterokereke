@@ -1,10 +1,10 @@
 ### Hey there 👋
 
 - 👀 My name is Peter and I'm a junior mobile developer!
-- 👨🏽‍💻 I am self-taught and learning using resources on the web.
+- 👨🏽‍💻 I am self-taught and learning using the web.
 - 👨🏽‍💻 Loves Kotlin, Dart and Python programming languages.
 - 🤝 Open to networking with fellow Software Developers.
-- 👀 Interests: Mobile development(Cross-platform/Native) and AI.
+- 👀 Interests: Mobile development(Cross-platform/Android) and AI.
 - 🗨️ Hobbies: Football, Video games, Blogging.
 - 🔭 Working daily to make myself a better Software Engineer.
 - 🌱 I’m currently learning the awesome Flutter framework.
