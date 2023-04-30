@@ -1,12 +1,11 @@
 ### Hey there 👋
 
-- 👀 My name is Peter and I'm a self-taught Android developer!
-- 👨🏽‍💻 Loves Kotlin.
-- 🤝 Open to networking with fellow Software Devs.
-- 👀 Interests: Android development, Wear OS and AI.
-- 🗨️ Hobbies: Web surfing, Blogging.
-- 🔭 Working daily to make myself a better Software Engineer.
-- 👯 Very open to collaboration and open source dev on Android projects.
+- 👀 My name is Peter and I'm a self-taught Software developer!
+- 👨🏽‍💻 Loves Kotlin,Javascript.
+- 🤝 Open to networking and collab with fellow Software Devs.
+- 👀 Interests: Backend development, AI and Web3.
+- 🗨️ Hobbies: Web surfing, Blogging, Gaming.
+- 🔭 Working daily to turn my ideas into reality.
 - 📫 Reach me at: thepeterokereke@gmail.com
 - 👨 Pronouns: He/Him
 - ⚡ Fun fact: People tilt their heads to the right when kssing😄.
