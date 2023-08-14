@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hey there 👋
 
-- 👀 Welcome to my GitHub profile! I'm Peter.
-- 🔭 And I am on a mission to make deliveries 🚚 easy & highly efficient.
-- ⚡ A Fun fact: People tilt their heads to the right when kissing 😄
+#### 👀 Welcome to my GitHub profile! I'm Peter.
+
+#### Your not so typical nerd, I've been a Computer enthusiast since 11.
+##### 🔭 And I am on a mission to build things people want.
