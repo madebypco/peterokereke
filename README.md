@@ -3,4 +3,4 @@
 #### 👀 Welcome to my GitHub profile! I'm Peter.
 
 ##### 🔭 Backend Engineer; Computer enthusiast since 11.
-##### 🚀 On a mission to build things people want.
+##### 🚀 On a mission to build stuff people want.
