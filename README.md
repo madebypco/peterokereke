@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### 👀 Welcome to my GitHub profile! I'm Peter.
-**Connect on LinkedIn**: [Peter Okereke](https://www.linkedin.com/in/peterokereke)
+**Connect with me on LinkedIn**: [Peter Okereke](https://www.linkedin.com/in/peterokereke)
 
 **Follow on Twitter**: [Peter Okereke](https://https://twitter.com/realpco)
 
